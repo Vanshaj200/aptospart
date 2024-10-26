@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "aptos": "^1.21.0",
-    "mysql": "^2.18.1"
-  }
-}
